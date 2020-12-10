@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>
+            Day 13
+        </title>
+        <style>
+            h1{
+                letter-spacing: 5px;
+                text-decoration: underline;
+                text-transform: uppercase;
+                
+                
+
+                
+            }
+            b{
+                vertical-align: sub;
+            }
+            p{
+                text-indent: 50px;
+                line-height: 30px;
+                text-align: justify;
+
+            }
+
+            
+        </style>
+    </head>
+    <body>
+        <h1>Text Properties</h1>
+        <p>Sivakarthikeyan (born 17 February 1985) is an Indian film actor, playback singer, producer, lyricist and television presenter who works in Tamil films. He produces films under his production company, <b>Sivakarthikeyan</b> Productions. He has won a Tamil Nadu State Film Award, four Edison Awards, three SIIMA Awards and three Vijay Awards. </p>
+    </body>
+</html>
