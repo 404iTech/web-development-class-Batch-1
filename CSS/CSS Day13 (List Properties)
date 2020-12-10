@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>
+            List Properties
+        </title>
+        <style>
+            li {
+                list-style-type: decimal;
+            }
+         
+
+
+            </style>
+
+
+    </head>
+    <body>
+        <ul>
+           <li>Home</li>
+           <li>products</li>
+           <li>blog</li>
+           <li>contacts</li>
+           <li>about</li>
+        </ul>
+    </body>
+</html>
